@@ -117,6 +117,7 @@ while True:
 
 
 # urlib2 사용
+# re 모듈(정규표현식)을 사용한 패턴 매칭
 import urllib2
 import re
 url = 'https://box.cdpython.com/ezen'
